@@ -1,10 +1,12 @@
-# Hi, I'm Jordan 👋👨‍💻
+# Hi, I'm Jordan 👋
 
 **`Web Developer`**
 
-Welcome to my GitHub portfolio! As a web developer, I find immense joy in crafting web applications that offer seamless user experiences. With a deep passion for problem-solving, I am dedicated to creating scalable, robust, and secure systems that address real-world challenges. Through continuous learning and staying abreast of the latest technologies, I strive to deliver innovative solutions that exceed expectations. Join me on this exciting journey as I showcase my projects and share my expertise in building cutting-edge web applications.
+Welcome to my GitHub! Here you will discover a collection of my projects. As a passionate web developer, I take great pleasure in building scalable, robust, and secure systems that effectively tackle real-world problems. With a steadfast commitment to lifelong learning, I ensure that I'm always up to date with the latest tools and technologies.
 
-## 🧰 Languages and Technologies
+🐍 I'm currently learning the Python framework Django and PostgreSQL
+
+## 🧰 Skills
 
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
@@ -26,17 +28,15 @@ Welcome to my GitHub portfolio! As a web developer, I find immense joy in crafti
 <br>
 <br>
 
-## Projects
+## 👨‍💻 Projects
 
 Here are some of the applications I have developed:
 
-### 🌐 Portfolio Website | <a href="https://www.jordanhaer.com" target="_blank">Link</a> | <a href="https://github.com/JordanHaer/portfolio-website" target="_blank">GitHub Repo</a>
-
-My personal portfolio website allows me to showcase my projects and highlight my technical skills. As a dedicated developer, I believe in continuous learning and improvement, and my website serves as a living documentation of my growth. I regularly update it with new projects and technologies, allowing visitors to see my progress firsthand.
+<!-- and are working on: -->
 
 ### 💰 MockStocks | <a href="https://github.com" target="_blank">Demo</a> | <a href="https://github.com/JordanHaer/mockstocks" target="_blank">GitHub Repo</a>
 
-MockStocks is a full-stack web application that allows users to simulate buying and selling stocks and shares using fake money. This application enables users to perform CRUD operations to buy and sell stocks, as well as view their portfolio. A third-party API is utilized to retrieve current and historical stock price data.
+MockStocks is a full-stack web application that allows users to simulate buying and selling stocks using fake money. I built a RESTful API to perform CRUD operations allowing users buy and sell stocks as well as view their portfolio. A third-party API is utilized to retrieve current and historical stock price data.
 
 <!-- ### 🏫 SchoolSync | <a href="https://github.com/jordanhaer" target="_blank">Demo</a> | <a href="https://github.com/jordanhaer" target="_blank">GitHub Repo</a>
 
@@ -48,7 +48,11 @@ MockStocks is a full-stack web application that allows users to simulate buying 
 
 ### 📒 Coding Blog | <a href="https://jordanhaerblog.vercel.app" target="_blank">Link</a> | <a href="https://github.com/JordanHaer/coding-blog" target="_blank">GitHub Repo</a>
 
-Dive into my web development & programming blog, where I document my coding experiences and projects. This platform serves as a hub for me to share my journey, insights, and growth. My blog serves as a central hub to share valuable insights, track personal growth, and provide valuable resources.
+Dive into my programming blog, where I document my coding experiences and projects. This platform serves as a central hub to share valuable insights, track personal growth, and showcase my projects.
+
+### 🌐 Portfolio Website | <a href="https://www.jordanhaer.com" target="_blank">Link</a> | <a href="https://github.com/JordanHaer/portfolio-website" target="_blank">GitHub Repo</a>
+
+My personal portfolio website allows me to showcase my projects and highlight my technical skills. As a dedicated developer, I believe in continuous learning and improvement, and my website serves as a living documentation of my growth. I regularly update it with new projects and technologies, allowing visitors to see my progress firsthand.
 
 ## 📧 Contact Info
 
