@@ -4,8 +4,6 @@
 
 Welcome to my GitHub! Here you will discover a collection of my projects. As a passionate web developer, I take great pleasure in building scalable, robust, and secure systems that effectively tackle real-world problems. With a steadfast commitment to lifelong learning, I ensure that I'm always up to date with the latest tools and technologies.
 
-🐍 I'm currently learning the Python framework Django and PostgreSQL
-
 ## 🧰 Skills
 
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
@@ -32,9 +30,9 @@ Welcome to my GitHub! Here you will discover a collection of my projects. As a p
 
 Here are some of the applications I have developed:
 
-<!-- and are working on: -->
+<!-- <a href="https://github.com" target="_blank">Demo</a> | -->
 
-### 💰 MockStocks | <a href="https://github.com" target="_blank">Demo</a> | <a href="https://github.com/JordanHaer/mockstocks" target="_blank">GitHub Repo</a>
+### 💰 MockStocks | <a href="https://github.com/JordanHaer/mockstocks" target="_blank">GitHub Repo</a>
 
 MockStocks is a full-stack web application that allows users to simulate buying and selling stocks using fake money. I built a RESTful API to perform CRUD operations allowing users buy and sell stocks as well as view their portfolio. A third-party API is utilized to retrieve current and historical stock price data.
 
