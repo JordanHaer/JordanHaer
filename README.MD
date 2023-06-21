@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-Welcome to my GitHub! Here you will discover a collection of my projects. As a passionate web developer, I take great pleasure in building scalable, robust, and secure systems that effectively tackle real-world problems. With a steadfast commitment to lifelong learning, I ensure that I'm always up to date with the latest tools and technologies.
+Welcome to my GitHub! Here you will discover a collection of my projects. As a passionate web developer, I take great pleasure in building building full stack web applications that combine intuitive interfaces with powerful functionality.
 
 ## 🧰 Skills
 
@@ -28,13 +28,13 @@ Welcome to my GitHub! Here you will discover a collection of my projects. As a p
 
 ## 👨‍💻 Projects
 
-Here are some of the applications I have developed:
+<!-- Here are some of the applications I have developed: -->
 
 <!-- <a href="https://github.com" target="_blank">Demo</a> | -->
 
 ### 💰 MockStocks | <a href="https://github.com/JordanHaer/mockstocks" target="_blank">GitHub Repo</a>
 
-MockStocks is a full-stack web application that allows users to simulate buying and selling stocks using fake money. I built a RESTful API to perform CRUD operations allowing users buy and sell stocks as well as view their portfolio. A third-party API is utilized to retrieve current and historical stock price data.
+MockStocks is a full-stack web application that allows users to simulate buying and selling stocks using fake money. I built a RESTful API to perform CRUD operations allowing users buy and sell stocks as well as view their portfolio. A third-party API is utilised to retrieve current and historical stock price data.
 
 <!-- ### 🏫 SchoolSync | <a href="https://github.com/jordanhaer" target="_blank">Demo</a> | <a href="https://github.com/jordanhaer" target="_blank">GitHub Repo</a>
 
@@ -46,11 +46,11 @@ MockStocks is a full-stack web application that allows users to simulate buying 
 
 ### 📒 Coding Blog | <a href="https://jordanhaerblog.vercel.app" target="_blank">Link</a> | <a href="https://github.com/JordanHaer/coding-blog" target="_blank">GitHub Repo</a>
 
-Dive into my programming blog, where I document my coding experiences and projects. This platform serves as a central hub to share valuable insights, track personal growth, and showcase my projects.
+Dive into my programming blog, where I document my coding experiences and projects using Contentlayer to write posts in markdown. Built with Next.js 13 and deployed using Vercel hosting.
 
 ### 🌐 Portfolio Website | <a href="https://www.jordanhaer.com" target="_blank">Link</a> | <a href="https://github.com/JordanHaer/portfolio-website" target="_blank">GitHub Repo</a>
 
-My personal portfolio website allows me to showcase my projects and highlight my technical skills. As a dedicated developer, I believe in continuous learning and improvement, and my website serves as a living documentation of my growth. I regularly update it with new projects and technologies, allowing visitors to see my progress firsthand.
+My personal portfolio website allows me to showcase my projects and highlight my technical skills. The GitHub api is used to retrive my latest projects as well as links to their repositories.
 
 ## 📧 Contact Info
 
