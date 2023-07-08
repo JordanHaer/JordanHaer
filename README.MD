@@ -1,8 +1,8 @@
 # Hi, I'm Jordan 👋
 
-**`Web Developer`**
+**`Software Developer`**
 
-Welcome to my GitHub! Here you will discover a collection of my projects. As a passionate web developer, I take great pleasure in building building full stack web applications that combine intuitive interfaces with powerful functionality.
+Welcome to my GitHub! Here you will discover a collection of my projects I have built as well as applications I am currently working on. You're welcome to reach out and connect with me using the links provided below.
 
 ## 🧰 Skills
 
@@ -18,6 +18,7 @@ Welcome to my GitHub! Here you will discover a collection of my projects. As a p
 <img align="left" alt="MongoDB" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <!-- <img align="left" alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> -->
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="35px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <!-- <img align="left" alt="Django" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />           -->
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -34,7 +35,7 @@ Welcome to my GitHub! Here you will discover a collection of my projects. As a p
 
 ### 💰 MockStocks | <a href="https://github.com/JordanHaer/mockstocks" target="_blank">GitHub Repo</a>
 
-MockStocks is a full-stack web application that allows users to simulate buying and selling stocks using fake money. I built a RESTful API to perform CRUD operations allowing users buy and sell stocks as well as view their portfolio. A third-party API is utilised to retrieve current and historical stock price data.
+MockStocks is a full-stack web application that allows users to simulate buying and selling stocks using fake money. I built a RESTful API to perform CRUD operations allowing users buy and sell stocks as well as view their stock portfolio. A third-party API is utilised to retrieve current and historical stock price data.
 
 <!-- ### 🏫 SchoolSync | <a href="https://github.com/jordanhaer" target="_blank">Demo</a> | <a href="https://github.com/jordanhaer" target="_blank">GitHub Repo</a>
 
@@ -50,7 +51,7 @@ Dive into my programming blog, where I document my coding experiences and projec
 
 ### 🌐 Portfolio Website | <a href="https://www.jordanhaer.com" target="_blank">Link</a> | <a href="https://github.com/JordanHaer/portfolio-website" target="_blank">GitHub Repo</a>
 
-My personal portfolio website allows me to showcase my projects and highlight my technical skills. The GitHub api is used to retrive my latest projects as well as links to their repositories.
+My portfolio website allows me to showcase my projects and highlight my technical skills. The GitHub API is used to retrieve my latest projects, as well as links to their repositories. Additionally, I have integrated my blog into my portfolio website so posts can be viewed directly on the same site.
 
 ## 📧 Contact Info
 
